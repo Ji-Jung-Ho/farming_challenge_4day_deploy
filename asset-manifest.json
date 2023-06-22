@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/farming_challenge_4day_deploy/static/css/main.ad26fd28.css",
-    "main.js": "/farming_challenge_4day_deploy/static/js/main.2a5e750e.js",
+    "main.css": "/farming_challenge_4day_deploy/static/css/main.5aace584.css",
+    "main.js": "/farming_challenge_4day_deploy/static/js/main.1c374fe0.js",
     "index.html": "/farming_challenge_4day_deploy/index.html",
-    "main.ad26fd28.css.map": "/farming_challenge_4day_deploy/static/css/main.ad26fd28.css.map",
-    "main.2a5e750e.js.map": "/farming_challenge_4day_deploy/static/js/main.2a5e750e.js.map"
+    "main.5aace584.css.map": "/farming_challenge_4day_deploy/static/css/main.5aace584.css.map",
+    "main.1c374fe0.js.map": "/farming_challenge_4day_deploy/static/js/main.1c374fe0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad26fd28.css",
-    "static/js/main.2a5e750e.js"
+    "static/css/main.5aace584.css",
+    "static/js/main.1c374fe0.js"
   ]
 }
